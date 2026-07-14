@@ -12,9 +12,9 @@
   <img src="images/banner.png" alt="AngryMailer Banner">
 </p>
 
-<div align="center">
-[English](README.md) | [简体中文](README.zh-CN.md)
-</div>
+<p align="center">
+<a href="README.md">English</a> | <a href="README.zh-CN.md">简体中文</a>
+</p>
 
 <p align="center">
 <a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
