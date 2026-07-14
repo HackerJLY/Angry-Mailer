@@ -12,8 +12,9 @@
   <img src="images/banner.png" alt="AngryMailer Banner">
 </p>
 
-简体中文 | [English](README.md)
+<p align="center">简体中文 | [English](README.md)</p>
 
+<p align="center">
 <a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
 <img src="https://img.shields.io/github/v/release/HackerJLY/Angry-Mailer?style=flat-square">
 </a>
@@ -25,6 +26,7 @@
 <a href="https://www.microsoft.com/windows">
 <img src="https://img.shields.io/badge/平台-Windows-blue?style=flat-square">
 </a>
+</p>
 
 ---
 
