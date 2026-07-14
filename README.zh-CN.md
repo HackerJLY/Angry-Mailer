@@ -14,6 +14,17 @@
 
 简体中文 | [English](README.md)
 
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
+<img src="https://img.shields.io/github/v/release/HackerJLY/Angry-Mailer?style=flat-square">
+</a>
+
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases">
+<img src="https://img.shields.io/github/downloads/HackerJLY/Angry-Mailer/total?style=flat-square">
+</a>
+
+<a href="https://www.microsoft.com/windows">
+<img src="https://img.shields.io/badge/平台-Windows-blue?style=flat-square">
+</a>
 ---
 
 ## 产品介绍
@@ -77,7 +88,11 @@ AngryMailer 是一款专业的 Windows 桌面邮件群发软件，可通过 SMTP
 
 ## 下载
 
-请前往 **GitHub Releases** 下载最新版本。
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
+
+https://github.com/HackerJLY/Angry-Mailer/releases/latest
+
+</a
 
 ---
 

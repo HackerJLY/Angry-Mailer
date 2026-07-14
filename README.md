@@ -14,6 +14,17 @@ A professional Windows bulk email sender for personalized email campaigns.
 
 English | [简体中文](README.zh-CN.md)
 
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
+<img src="https://img.shields.io/github/v/release/HackerJLY/Angry-Mailer?style=flat-square">
+</a>
+
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases">
+<img src="https://img.shields.io/github/downloads/HackerJLY/Angry-Mailer/total?style=flat-square">
+</a>
+
+<a href="https://www.microsoft.com/windows">
+<img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square">
+</a>
 ---
 
 ## Introduction
@@ -77,7 +88,11 @@ It supports personalized emails, mailing list management, HTML emails, attachmen
 
 ## Download
 
-Download the latest version from the **GitHub Releases** page.
+<a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
+
+https://github.com/HackerJLY/Angry-Mailer/releases/latest
+
+</a>
 
 ---
 
