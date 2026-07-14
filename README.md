@@ -13,7 +13,7 @@ A professional Windows bulk email sender for personalized email campaigns.
 </p>
 
 <div align="center">
-English | [简体中文](README.zh-CN.md)
+[English](README.md) | [简体中文](README.zh-CN.md)
 </div>
 
 <p align="center">
