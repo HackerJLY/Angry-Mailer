@@ -12,9 +12,9 @@ A professional Windows bulk email sender for personalized email campaigns.
   <img src="images/banner.png" alt="AngryMailer Banner">
 </p>
 
-<p align="center">
+<div align="center">
 English | [简体中文](README.zh-CN.md)
-</p>
+</div>
 
 <p align="center">
 <a href="https://github.com/HackerJLY/Angry-Mailer/releases/latest">
