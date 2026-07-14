@@ -2,7 +2,7 @@
   <img src="images/logo.jpg" width="128" alt="AngryMailer Logo">
 </p>
 
-<h1 align="center">AngryMailer</h1>
+<h1 align="center">愤怒的邮递员</h1>
 
 <p align="center">
 专业的 Windows 邮件群发软件，支持个性化邮件发送。
@@ -34,7 +34,7 @@
 
 ## 产品介绍
 
-AngryMailer 是一款专业的 Windows 桌面邮件群发软件，可通过 SMTP 服务器高效发送大量邮件。
+愤怒的邮递员 是一款专业的 Windows 桌面邮件群发软件，可通过 SMTP 服务器高效发送大量邮件。
 
 软件支持个性化邮件、收件人管理、HTML 邮件、附件发送、定时发送、多 SMTP 账号轮换等功能，适用于企业、开发者以及需要批量发送邮件的个人用户。
 
